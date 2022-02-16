@@ -3,4 +3,4 @@ Explaination for various Riddles linked with Real World scenario along with code
 
 Riddle's & Solution are Updated Weekly.
 
-Week 3 Updated Now.
+
